@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is João Vitor Valentim<br>I'm 18 years old<br>I'm studying Python<br>My objective is work as a Software Engineer<br>
+Studying...
 
 
 ## 🌐 Socials:
